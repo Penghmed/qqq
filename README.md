@@ -14,3 +14,5 @@ https://www.mdpi.com/2073-8994/13/9/1732
 
 https://michaelgoerz.net/notes/decomposing-two-qubit-hamiltonians-into-pauli-matrices.html
 
+https://pranavgokhale.com/static/Minimizing_State_Preparations_for_VQE.pdf
+
