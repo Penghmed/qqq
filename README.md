@@ -16,3 +16,4 @@ https://michaelgoerz.net/notes/decomposing-two-qubit-hamiltonians-into-pauli-mat
 
 https://pranavgokhale.com/static/Minimizing_State_Preparations_for_VQE.pdf
 
+https://www.youtube.com/watch?v=kgkap7-Kt4Y&ab_channel=DiegoEmilio
