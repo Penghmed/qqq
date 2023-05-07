@@ -1,5 +1,7 @@
 # qqq
 
+https://github.com/TChotibut/ml-for-physical-scientists
+
 https://oar.princeton.edu/bitstream/88435/pr1jp17/1/OptSimulMeasure.pdf
 
 https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.26853
